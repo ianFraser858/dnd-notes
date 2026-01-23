@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Audio files (large, not for version control)
+*.mp3
+*.wav
+*.m4a
+
+# Whisper model cache
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
