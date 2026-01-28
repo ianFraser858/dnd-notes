@@ -47,7 +47,7 @@ def extract_and_compress_audio(video_path, output_dir):
         "-vn",                  # No video
         "-ac", "1",             # Mono
         "-ar", "16000",         # 16kHz sample rate (Whisper optimal)
-        "-b:a", "64k",          # 64kbps bitrate
+        "-b:a", "24k",          # 24kbps bitrate
         "-y",                   # Overwrite output
         str(output_path)
     ]
