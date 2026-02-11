@@ -39,6 +39,48 @@
   - Provided extensive info about mind flayer occupation, the pyramid, and curfew
   - Sold Ardryl an elite disguise kit
 
+### The Silverleaf Resistance
+- **Type:** Anti-mind flayer resistance cell
+- **Location:** Abandoned warehouse, deep in the warehouse district, Silverleaf
+- **Relationship:** Allied
+- **Established:** ~2 weeks ago (same time as mind flayer takeover)
+- **Members:**
+
+#### Gold Deer
+- **Race:** Dwarf
+- **Role:** Leader
+- **Notes:** Heard the Dreamcatchers were being smuggled in and sent Badger to find them. Enthusiastic about recruiting, very proud of their flyer. Uses metal + animal codename system.
+
+#### Copper Badger
+- **Race:** Unknown (hooded)
+- **Role:** Intel gatherer
+- **Notes:** Was the mysterious person tailing the party (resolved from 2026-01-27 session). Good at blending into crowds. Gathering intel on the government building for the party's next mission.
+
+#### Tin Deer ("Tinder")
+- **Race:** Unknown (hooded, very lithe build)
+- **Role:** Creative / communications
+- **Notes:** Made the resistance recruitment flyer (poor artwork). Quiet.
+
+#### Zinc Boar
+- **Race:** Unknown
+- **Role:** Weaponsmith
+- **Notes:** Works in the back of the warehouse making weapons. Materials are scarce.
+
+#### Iron Fox
+- **Race:** Unknown
+- **Role:** Trainer
+- **Notes:** Trains resistance members. Minimal interaction with the party so far.
+
+### The Golden Goose Waiter
+- **Type:** Waiter / potential resistance recruit
+- **Location:** The Golden Goose tavern, Silverleaf
+- **Relationship:** Friendly
+- **Notes:**
+  - Not yet a full resistance member, using the party to feel out the resistance before committing
+  - Directed the party to the resistance hideout via an address on their bill
+  - Genuinely unhelpful about hotel recommendations
+  - Zarius left him a gold piece tip (found on the floor)
+
 ---
 
 ## Neutral / Unknown
@@ -46,16 +88,9 @@
 ### Da
 - **Notes:** "On a completely other plane of existence" - party has encountered or knows of this individual
 
-### Mysterious Tail
-- **Type:** Unknown person following the party
-- **Location:** Silverleaf
-- **Relationship:** Unknown
-- **Notes:**
-  - Spotted following the party after leaving Ivan's warehouse
-  - Good at blending into crowds, bad at hiding that they're following
-  - No threatening aura detected (Jack rolled 38 perception)
-  - Currently marked as Jack's Hunted Prey
-  - Party lost them but plans to track them down
+### ~~Mysterious Tail~~ → See Copper Badger (Allies)
+- **Status:** RESOLVED (2026-02-10)
+- **Notes:** Was Copper Badger, the resistance's intel gatherer. She's an ally.
 
 ---
 
@@ -99,6 +134,26 @@
   - Curfew enforcement (gates close at sundown, 10 PM curfew)
   - Curfew violators sent to the Pyramid
 - **Notes:** "Squids" is considered a slur; proper term is Illithids or mind flayers
+- **Biology:** They genuinely eat brains - come up behind incapacitated victims and consume brains through the skull
+
+### Robot Dog (Tau?)
+- **Type:** Mechanical construct / former party companion
+- **Location:** Spotted at the government building, Silverleaf
+- **Relationship:** Former ally turned enemy
+- **Notes:**
+  - A robot dog has been seen arriving at the government building with mind flayer ships
+  - Likely Tau, the party's former companion who betrayed them
+  - Accompanied by an unknown dwarf
+  - Zarius is personally motivated to confront it
+
+### Unknown Dwarf Collaborator
+- **Type:** Unknown
+- **Location:** Spotted at the government building, Silverleaf
+- **Relationship:** Enemy (allied with mind flayers)
+- **Notes:**
+  - Seen arriving with mind flayer ships alongside the robot dog
+  - Gold Deer expressed shock that a dwarf would work with the mind flayers
+  - Identity unknown
 
 ### Beetle Riders (Deceased)
 - **Encountered:** 2026-01-20 session
