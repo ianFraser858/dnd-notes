@@ -67,9 +67,10 @@
 - **Notes:** Works in the back of the warehouse making weapons. Materials are scarce.
 
 #### Iron Fox
-- **Race:** Unknown
+- **Race:** Kashrishi (short rhino-like creature with a crystal horn; very rare in Silvermoor)
 - **Role:** Trainer
-- **Notes:** Trains resistance members. Minimal interaction with the party so far.
+- **Pronouns:** She/her
+- **Notes:** Was practicing terrible unarmed combat when the party found her. Sierra coached her up to level 1 Monk (critical success). Sierra has adopted her as an ongoing training project.
 
 ### The Golden Goose Waiter
 - **Type:** Waiter / potential resistance recruit
@@ -97,14 +98,15 @@
 ## Enemies
 
 ### Governor John Little
-- **Type:** Corrupt politician
-- **Location:** Silverleaf, Silvermoor
+- **Type:** Corrupt politician / voluntary mind flayer collaborator
+- **Location:** Governor's Manor, Silverleaf, Silvermoor
 - **Relationship:** Personal enemy of Ardryl
 - **Notes:**
   - Former mayor of Ardryl's hometown
   - Was corrupt and exploitative; Ardryl overthrew him during the year gap
   - Escaped and became Governor of Silverleaf
-  - Pledges fealty to the mind flayers
+  - **Voluntarily serves the mind flayers - NOT mind-controlled**
+  - Proved his loyalty by helping them seize the Seat of the Thunderlord; rewarded with governorship
   - Placed 50 gold bounty on Ardryl (highest in the city)
   - Name is inverted reference to Little John from Robin Hood
 

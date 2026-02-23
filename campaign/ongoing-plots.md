@@ -66,8 +66,8 @@
 ---
 
 ### Infiltrate the Government Building
-**Status:** In Progress
-**Objective:** Infiltrate Governor Little's government building
+**Status:** In Progress - Planning Phase
+**Objective:** Infiltrate Governor Little's manor
 **Location:** Silverleaf, Silvermoor
 
 **Motivations:**
@@ -80,12 +80,13 @@
 - 24/7 security detail
 - Mind flayer ships visit periodically
 - A robot dog and a dwarf have been spotted arriving with the ships
-- Copper Badger is gathering more intel for a concrete plan
+- **4 distinct patrol shift rotations per night** (Copper Badger intel, 2026-02-17)
+- Copper Badger actively conducting reconnaissance
 
 **Next Steps:**
-- Wait for Badger's reconnaissance report
-- Check Zinc Boar's weapon supplies
+- Receive Copper Badger's full reconnaissance report
 - Plan infiltration with resistance support
+- Assign roles (entry team, lookouts)
 
 ---
 
@@ -101,7 +102,9 @@
 - Iron Fox (trainer)
 - Golden Goose waiter (potential recruit, not yet full member)
 
-**Base:** Abandoned warehouse deep in the warehouse district
+**Base:** Relocated to Ivan/Even's warehouse area (2026-02-17) after party identified the original hideout's flyer compromised both primary and secondary locations
+
+**OPSEC Update:** New decoy location system in place per party recommendation
 
 **Party Codenames:**
 - Jack BeQuick → Gun Metal Cat
@@ -117,6 +120,8 @@
 ### Mind Flayer Occupation of Silvermoor
 **Status:** Ongoing
 The mind flayers (Illithids) have taken direct control of Silvermoor. Two weeks ago, they swept in and all government officials declared them the new rulers. They rule from their floating city above.
+
+**Key Intel Update (2026-02-17):** Governor Little is a **voluntary collaborator**, not mind-controlled. He helped seize the Seat of the Thunderlord on the mind flayers' behalf as proof of loyalty, and was rewarded with the governorship.
 
 **Controlled Territory:**
 - Silverleaf (confirmed)
