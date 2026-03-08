@@ -77,16 +77,29 @@
 - Gather intelligence on mind flayer command structure
 
 **Known Information:**
-- 24/7 security detail
-- Mind flayer ships visit periodically
-- A robot dog and a dwarf have been spotted arriving with the ships
+- Mind flayer ships visit periodically at night
+- A robot dog and a dwarf have been spotted arriving with the ships (night only)
+- Robot dog does NOT appear during daytime - night-only visitor
 - **4 distinct patrol shift rotations per night** (Copper Badger intel, 2026-02-17)
-- Copper Badger actively conducting reconnaissance
+- **100+ guards during the day** (party surveillance, 2026-03-03)
+- **Building layout:** 3 stories, ~100×60 ft; offices on right, formal rooms (dining/study/library/meeting) on left
+- **Guard rotation:** 45-minute cycles; interior and exterior patrols offset by ~30 min from each other
+- **Guard types:** Mix of humans, orcs, elves, dwarves - no mind flayer hybrids visible
+- **Guardhouse** inside the wall where patrol guards take breaks
+- Copper Badger confirmed still actively surveilling the manor (spotted by Jack, 2026-03-03)
+
+**Intelligence Still Needed (questions for Ivan):**
+- Has anyone broken in before?
+- Secret passages / escape routes?
+- Bribeable or blackmailable staff?
+- Who handles the catering/cooking? (potential infiltration vector)
+- Any magical or technological wards?
+- Forged official documents - is stationery available?
 
 **Next Steps:**
-- Receive Copper Badger's full reconnaissance report
-- Plan infiltration with resistance support
-- Assign roles (entry team, lookouts)
+- Talk to Ivan/Evan about heist intelligence (next session)
+- Compile item wish lists for entry gear and other tools
+- Plan nighttime infiltration around the 4-shift patrol schedule
 
 ---
 
@@ -170,7 +183,7 @@ The person following the party was Copper Badger, intel gatherer for the Silverl
 Jack spotted members of her old assassin company at the Golden Goose tavern. Their presence in the same city as the mind flayers is suspicious and raises questions about their allegiance.
 
 ### Robot Dog (Tau?)
-A robot dog has been spotted at the government building arriving with mind flayer ships. The party's former companion Tau betrayed them - this could be the same robot dog. Zarius is personally motivated to confront it.
+A robot dog has been spotted at the government building arriving with mind flayer ships **at night**. Confirmed NOT present during daytime. The party's former companion Tau betrayed them - this could be the same robot dog. Zarius is personally motivated to confront it.
 
 ### Keggy's Fate
 Sierra expressed doubt that Keggy is truly dead, noting "death has a habit of not sticking." Zarius apparently raved about Keggy while drunk (he doesn't remember this).
