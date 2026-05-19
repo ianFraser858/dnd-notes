@@ -84,6 +84,24 @@
 
 ---
 
+### Ursa
+- **Type:** Nephilim / Warrior (uses a massive glaive with area attacks)
+- **Race:** Nephilim - tall, coated in a black metallic substance with red arcane runes running up his arms and around his bald head
+- **Location:** Traveling with the party (met at forest bivouac near the pyramid, April 7)
+- **Relationship:** Temporary ally - aligned objectives
+- **Objectives:**
+  - Access the blue pyramid to recover a rumored cache of weapons
+  - Learn how the pyramid was constructed (Ring City technology) - believes this will tell him about the Ring City's original architecture
+- **Background:** Claims to have been present during the Ring City's original construction in a previous life. He "witnessed" something he won't elaborate on.
+- **Connection:** Knows a mutual contact - referred to as "Santa" or "Santa Jingle Star" - who told him to watch for the party
+- **Combat:**
+  - Whirling glaive attacks deal fire damage and hit an area (reflex save for half)
+  - Fire resistance (halved Moz's fireball in April 28 session)
+  - Has a "tag team" synergy with Zarius: if one misses, the other can use a reaction to attack (no multi-attack penalty applies)
+- **Notes:** Does not eat conventional food. Communicates directly, finds vague plans irritating. Found the pyramid on his own but couldn't get past the gargoyles alone. Joined the party after they shared their plan to use the governor's manor to find a passcode (ultimately abandoned - they brute forced past the gargoyles with Ursa's help).
+
+---
+
 ## Neutral / Unknown
 
 ### Da
@@ -92,6 +110,40 @@
 ### ~~Mysterious Tail~~ → See Copper Badger (Allies)
 - **Status:** RESOLVED (2026-02-10)
 - **Notes:** Was Copper Badger, the resistance's intel gatherer. She's an ally.
+
+### Jonathan
+- **Type:** Hall of Records clerk
+- **Location:** Hall of Records, Silverleaf
+- **Relationship:** Friendly / potential resistance sympathizer
+- **Notes:**
+  - Sole remaining clerk after the occupation fired most Hall of Records staff
+  - Has seen the resistance flyer and is considering joining; wants to go with friends
+  - Has a friend at a local restaurant who is also interested (possibly the Golden Goose waiter)
+  - Cannot express political opinions at work without risking his job
+  - Allowed the party access to original blueprints of the governor's manor after Moz charmed him (39 diplomacy)
+  - Fascinated by the concept of off-world visitors
+
+### Frank
+- **Type:** Chef at the governor's manor
+- **Location:** Governor's Manor, Silverleaf (day/evening shifts; does not sleep on-site)
+- **Relationship:** Unknown (not yet met)
+- **Notes:** One of three commuting chefs. Does not sleep on-site. Potential infiltration vector.
+
+### Maria
+- **Type:** Chef at the governor's manor
+- **Location:** Governor's Manor, Silverleaf (day/evening shifts; does not sleep on-site)
+- **Relationship:** Unknown (not yet met)
+- **Notes:** One of three commuting chefs. Does not sleep on-site. Potential infiltration vector.
+
+### Entranche
+- **Type:** Chef at the governor's manor
+- **Location:** Governor's Manor, Silverleaf (day/evening shifts; does not sleep on-site)
+- **Relationship:** Unknown (not yet met)
+- **Notes:**
+  - One of three commuting chefs. Does not sleep on-site. Potential infiltration vector.
+  - "Entranche" is a title/honorary name earned somewhere distant, not their birth name
+  - Claims to have been trained by **Loro** - the best chef in the Feywild (a goblin)
+  - Whether this claim is true is unverified
 
 ---
 
@@ -137,6 +189,8 @@
   - Curfew violators sent to the Pyramid
 - **Notes:** "Squids" is considered a slur; proper term is Illithids or mind flayers
 - **Biology:** They genuinely eat brains - come up behind incapacitated victims and consume brains through the skull
+- **CRITICAL - No Magic:** Mind flayers do NOT use magic. Their powers are psionic innate abilities - non-magical mental effects. They are unaffected by anti-magic fields.
+- **Shun Magic:** They actively shun magic use. Members who seek out magic are excised from the hive mind. The Illithid fought at end of Season 1 was a rare anomaly who turned to magic as a last resort to free the Ring City.
 
 ### Robot Dog (Tau?)
 - **Type:** Mechanical construct / former party companion

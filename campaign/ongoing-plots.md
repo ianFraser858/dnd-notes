@@ -18,7 +18,7 @@
 ---
 
 ### Investigate the Pyramid
-**Status:** In Progress
+**Status:** In Progress - Entrance Cleared (2026-04-28)
 **Objective:** Discover what is happening inside the mysterious blue pyramid
 **Location:** Silverleaf, Silvermoor
 
@@ -33,12 +33,17 @@
 - Blue energy tinge matches Ring City technology (Zarius identified, rolled 37)
 - Mind flayer ships land there regularly, stay ~1 hour, then leave
 - 24/7 security, heavily guarded
+- **Two gargoyle guardians at entrance - DEFEATED (2026-04-28)**
+- Pyramid has exterior gatling gun emplacements that have not yet fired (observed but not activated in both combat encounters)
+- Ursa (Nephilim ally) believes the pyramid contains: a cache of weapons AND information about Ring City construction methods
 
 **Questions:**
 - What are the mind flayers doing inside?
 - Where do the people go after becoming "mind slaves"?
 - Is this connected to their larger plans?
 - What Ring City technology is powering it?
+- What do the gatling gun emplacements react to? Will they fire when the party enters?
+- Will Ursa's past-life knowledge of Ring City construction be useful inside?
 
 ---
 
@@ -88,18 +93,28 @@
 - **Guardhouse** inside the wall where patrol guards take breaks
 - Copper Badger confirmed still actively surveilling the manor (spotted by Jack, 2026-03-03)
 
-**Intelligence Still Needed (questions for Ivan):**
-- Has anyone broken in before?
-- Secret passages / escape routes?
-- Bribeable or blackmailable staff?
-- Who handles the catering/cooking? (potential infiltration vector)
-- Any magical or technological wards?
-- Forged official documents - is stationery available?
+**Security Intel (from Ivan, 2026-03-10):**
+- **Anti-magic wards:** Anti-magic rooms, invisibility-negating goggles, anti-illusion tech, proximity runes that shut off all magic. Mind flayers immune (psionic, not magical).
+- **Master servants:** Run the manor; essentially uncorruptible. Bribing lower staff useless within 6 hours. Do NOT threaten their families (association holds grudges).
+- **Escape route:** Confirmed exists. Exit location unknown to Ivan.
+- **Chefs:** Three commuting chefs - Frank, Maria, Entranche. One always on-site at night. Best infiltration vector.
+- **Previous break-in:** The Silent Order mafia breached the manor ~6+ months ago (pre-John Little). Jack knows who they are.
+
+**Blueprints:** Original blueprints obtained from Hall of Records (2026-03-10). Being reviewed - possible escape tunnel location inside.
+
+**Gear Ordered (from Ivan, arriving in a few hours):**
+- Climbing kit, 4x guard uniforms, clockwork grapple gun, disguise kit, sleep arrows, 50ft rope, healing potions
+
+**Plan So Far:**
+- Entry: impersonate commuting chefs and/or use grapple gun over the wall
+- Timing: nighttime (4 patrol shifts vs 100+ daytime guards)
+- Guards: sleep arrows + rope to quietly neutralize and replace
+- Inside: no magic usable due to wards; plan around this
 
 **Next Steps:**
-- Talk to Ivan/Evan about heist intelligence (next session)
-- Compile item wish lists for entry gear and other tools
-- Plan nighttime infiltration around the 4-shift patrol schedule
+- Finish reviewing blueprints (find escape tunnel exit, ward placements, layout)
+- Pick up gear from Ivan
+- Finalize plan and execute
 
 ---
 
@@ -187,3 +202,9 @@ A robot dog has been spotted at the government building arriving with mind flaye
 
 ### Keggy's Fate
 Sierra expressed doubt that Keggy is truly dead, noting "death has a habit of not sticking." Zarius apparently raved about Keggy while drunk (he doesn't remember this).
+
+### The Silent Order
+A mafia group that previously broke into the governor's manor ~6+ months ago (pre-John Little). Jack recognizes the name. Could be a potential asset (they know the layout) or a complication. Not yet pursued.
+
+### Jack's Debt to Ivan
+Jack agreed to perform jobs for Ivan as payment for heist intelligence. One big job confirmed, possibly more. Nature of jobs unknown. Ivan implied Jack would find them "pleasing."
