@@ -100,9 +100,29 @@
   - Has a "tag team" synergy with Zarius: if one misses, the other can use a reaction to attack (no multi-attack penalty applies)
 - **Notes:** Does not eat conventional food. Communicates directly, finds vague plans irritating. Found the pyramid on his own but couldn't get past the gargoyles alone. Joined the party after they shared their plan to use the governor's manor to find a passcode (ultimately abandoned - they brute forced past the gargoyles with Ursa's help).
 
+### Horvox & Dorn (Sword Spirits)
+- **Type:** Spiritual entities / personalities within Zarius's sword
+- **Relationship:** Ally (sword is Zarius's weapon)
+- **Notes:**
+  - The sword contains two personalities: **Dorn** (usually active) and **Horvox** (dormant, but awoke 2026-06-02)
+  - Dorn "went to sleep" at the start of this session, allowing Horvox to speak
+  - Horvox's first communication: *"I think dad's here"* — sensing Horbach's presence inside the pyramid
+  - Horvox appears to have a meaningful connection to Horbach; the nature of this connection is unknown
+
 ---
 
 ## Neutral / Unknown
+
+### Horbach
+- **Type:** Living Paragon (god-like but not a deity)
+- **Location:** Believed to be somewhere inside the blue pyramid (confirmed by Horvox, 2026-06-02)
+- **Relationship:** Unknown — ally, prisoner, or threat
+- **Notes:**
+  - Described by the party as "god-like" but technically a "living paragon" — the distinction matters to dwarves who use him as a figure to emulate rather than worship
+  - Zarius's sword (Horvox personality) sensed his presence inside the pyramid and said "I think dad's here"
+  - The party theorizes he is either: a prisoner being forced to make weapons for the mind flayers, a voluntary collaborator, or has been converted
+  - If recovered, he would be a significant asset to the resistance — his capability would dwarf most allies
+  - Connection to Zarius's sword (Horvox) is unclear
 
 ### Da
 - **Notes:** "On a completely other plane of existence" - party has encountered or knows of this individual
@@ -210,6 +230,26 @@
   - Seen arriving with mind flayer ships alongside the robot dog
   - Gold Deer expressed shock that a dwarf would work with the mind flayers
   - Identity unknown
+
+### Celeste Killian (Deceased - Historical)
+- **Type:** Hero of the Nightmares (legendary adventuring group, original Ring City raid)
+- **Status:** Deceased — killed during the first raid on the Ring City by a Mind Flayer Dragon's breath attack; the only hero to die in that battle
+- **Relationship:** Historical figure; Sierra recognizes her via Nightmares orientation
+- **Equipment:** Wielded **Karen's Claw** — a longsword that turns anything it touches to ash. Celeste was able to wield it with bare hands (she was level ~17-18 and "built differently"). Now in the party's possession (Moz carries it via magic-absorbing gauntlet).
+- **Notes:**
+  - Listed in the Hall of Heroes at Henriette Manor but her equipment was not there (it was on the Ring City when she died)
+  - Her equipment apparently ended up in the blue pyramid — suggesting the mind flayers looted the Ring City after the original raid
+  - Karen's Claw was stored in the "Do Not Enter — Very Dangerous" room of the pyramid alongside other Nightmare artifacts
+
+### Hybrid Illithid Patrols
+- **Type:** Half-illithid construct / sensor hybrids
+- **Location:** Catwalk level of the blue pyramid, Silverleaf
+- **Relationship:** Hostile
+- **Notes:**
+  - Patrol in coordinated pairs — if one detects something, the other mirrors its behavior
+  - Emit psychic energy waves when approaching a target
+  - Susceptible to suggestion spells (failed will save 2026-06-02)
+  - Similar to the hybrids seen at city entry points across Silvermoor
 
 ### Beetle Riders (Deceased)
 - **Encountered:** 2026-01-20 session

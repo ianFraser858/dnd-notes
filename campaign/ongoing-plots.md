@@ -18,7 +18,7 @@
 ---
 
 ### Investigate the Pyramid
-**Status:** In Progress - Entrance Cleared (2026-04-28)
+**Status:** In Progress - Party Inside (2026-06-02)
 **Objective:** Discover what is happening inside the mysterious blue pyramid
 **Location:** Silverleaf, Silvermoor
 
@@ -34,16 +34,27 @@
 - Mind flayer ships land there regularly, stay ~1 hour, then leave
 - 24/7 security, heavily guarded
 - **Two gargoyle guardians at entrance - DEFEATED (2026-04-28)**
-- Pyramid has exterior gatling gun emplacements that have not yet fired (observed but not activated in both combat encounters)
-- Ursa (Nephilim ally) believes the pyramid contains: a cache of weapons AND information about Ring City construction methods
+- Pyramid has exterior gatling gun emplacements that have not yet fired (observed but not activated in either combat encounter)
+- **Party entered 2026-06-02**
+
+**Interior Layout (discovered 2026-06-02):**
+- **Ground floor:** Entry hallway → crossroads with stairs up and stairs down
+- **Catwalk level (middle):** Industrial catwalk area, machinery below, half-illithid hybrid patrols. Deep speech writing on walls. Electrical hum from above.
+- **Administrative level (upper):** Four rooms — Teleporter Room, Bedroom, Security, "Do Not Enter — Very Dangerous." Lit with common-language signage.
+- **Lower levels (below crossroads, Ursa's direction):** Human experimentation — fusing humans and machines using Nine Hells technology. Source of the human screaming.
+
+**What's Been Found:**
+- Security room (empty): assault rifle-type firearms (Starfinder-level tech), 30 rounds each, bulk 2. Map showing upper levels only. Notes of a madman. 1 gold coin.
+- "Do Not Enter" room: Nightmare-era artifact cache — Karen's Claw (Celeste Killian's cursed longsword), two sets of gloves (spell-storing; circulatory vision), one magic-absorbing gauntlet, and other unidentified items. All looted into bag of holding.
+- Hybrid patrol bypassed via suggestion spell and invisibility on the catwalk level.
 
 **Questions:**
-- What are the mind flayers doing inside?
-- Where do the people go after becoming "mind slaves"?
-- Is this connected to their larger plans?
-- What Ring City technology is powering it?
-- What do the gatling gun emplacements react to? Will they fire when the party enters?
-- Will Ursa's past-life knowledge of Ring City construction be useful inside?
+- Where exactly is Horbach inside the pyramid? (Horvox confirmed his presence 2026-06-02)
+- What does the Teleporter Room connect to?
+- What is Ursa's status? He went to the lower levels alone.
+- Why does the pyramid have Nightmare-era artifacts? Did the mind flayers loot the Ring City?
+- What are the other unidentified weapons in the bag of holding?
+- What are the Gatling gun emplacements' trigger conditions?
 
 ---
 
@@ -140,6 +151,27 @@
 - Sierra → Razzy
 - Zarius → Zarius (no codename)
 - Moz → Moz (no codename)
+
+---
+
+---
+
+### Find Horbach
+**Status:** New - Active (2026-06-02)
+**Objective:** Locate Horbach (a living paragon) believed to be inside the pyramid
+**Location:** Somewhere inside the blue pyramid
+
+**Known Information:**
+- Zarius's sword has two personalities: Dorn (usually active, currently sleeping) and Horvox (currently active)
+- Horvox spoke unprompted: "I think dad's here" — indicating Horbach is present somewhere in the pyramid
+- Horbach is described as a "living paragon" — god-like in capability but not actually a deity
+- The party believes he is either: a prisoner of the mind flayers, being coerced into making weapons, or (feared) has willingly collaborated
+
+**Questions:**
+- Where in the pyramid is Horbach?
+- Is he a prisoner, collaborator, or something else?
+- What is his connection to Zarius's sword (specifically the Horvox personality)?
+- If recovered, would he side with the resistance?
 
 ---
 
