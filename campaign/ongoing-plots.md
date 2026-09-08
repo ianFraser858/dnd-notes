@@ -18,7 +18,7 @@
 ---
 
 ### Investigate the Pyramid
-**Status:** In Progress - Party Inside (2026-06-02)
+**Status:** COMPLETE / Exfiltrated (2026-07-14) — Horbach escaped; forge sabotaged
 **Objective:** Discover what is happening inside the mysterious blue pyramid
 **Location:** Silverleaf, Silvermoor
 
@@ -37,23 +37,38 @@
 - Pyramid has exterior gatling gun emplacements that have not yet fired (observed but not activated in either combat encounter)
 - **Party entered 2026-06-02**
 
-**Interior Layout (discovered 2026-06-02):**
+**Interior Layout (discovered 2026-06-02, expanded 2026-07-07):**
 - **Ground floor:** Entry hallway → crossroads with stairs up and stairs down
-- **Catwalk level (middle):** Industrial catwalk area, machinery below, half-illithid hybrid patrols. Deep speech writing on walls. Electrical hum from above.
+- **Catwalk level (middle):** Industrial catwalk area, machinery below, half-illithid hybrid patrols. Deep speech writing on walls. Electrical hum from above. Has an unexplored corridor branching off (partially explored 2026-07-07 — leads to the forge tunnel).
 - **Administrative level (upper):** Four rooms — Teleporter Room, Bedroom, Security, "Do Not Enter — Very Dangerous." Lit with common-language signage.
+- **Forge corridor (from catwalk crossroads, opposite Ursa's direction):** Long hallway lined with parallel hot/cold pipes (cooling water + molten metal feed) leading to Horbach's forge chamber.
+- **Forge chamber:** Horbach at the anvil (dwarf, flame arm); large robotic dog bodyguard; forge with a portal-activation button; open portal to unknown destination.
 - **Lower levels (below crossroads, Ursa's direction):** Human experimentation — fusing humans and machines using Nine Hells technology. Source of the human screaming.
 
 **What's Been Found:**
-- Security room (empty): assault rifle-type firearms (Starfinder-level tech), 30 rounds each, bulk 2. Map showing upper levels only. Notes of a madman. 1 gold coin.
+- Security room (empty): assault rifle-type firearms (Starfinder-level tech), 30 rounds each, bulk 2. Map showing upper levels only. Notes of a madman. 1 gold coin. **4 rifles sabotaged with glue by Sierra (2026-07-07).**
 - "Do Not Enter" room: Nightmare-era artifact cache — Karen's Claw (Celeste Killian's cursed longsword), two sets of gloves (spell-storing; circulatory vision), one magic-absorbing gauntlet, and other unidentified items. All looted into bag of holding.
+- **Teleporter Room (investigated 2026-07-07):** Four teleportation pads. Three labeled in unreadable Deep Speech. One labeled in Common: **"GOVERNOR"** — appears active/usable. Party ultimately escaped via a **third pad** that activated later (dropped them at the Governor's Manor) (2026-07-14).
+- **Forge chamber (visited 2026-07-07, sabotaged 2026-07-14):** Horbach in person. Guarded by an Omicron Beta construct. Forge has a portal-activation button (Horbach's escape route). Uses an access-code challenge system. **Forge sabotaged 2026-07-14** — both coolant/lava supply pipes blown; hallway flooded.
 - Hybrid patrol bypassed via suggestion spell and invisibility on the catwalk level.
 
-**Questions:**
-- Where exactly is Horbach inside the pyramid? (Horvox confirmed his presence 2026-06-02)
-- What does the Teleporter Room connect to?
-- What is Ursa's status? He went to the lower levels alone.
+**Combat Outcome (2026-07-14):**
+- Horbach fled through his forge portal in round 3 (portal closed behind him — destination unknown)
+- Omicron Beta neutralized
+- Party exfiltrated via the newly-active third teleporter pad to the Governor's Manor
+- Party retreated to Sledgehammer and then to the Hanging City
+
+**Resolved Questions:**
+- ~~Where exactly is Horbach inside the pyramid?~~ Was in the forge; now escaped via portal, current location unknown
+- ~~What are the pyramid's access codes and where are they issued?~~ Presumed Governor's Manor — never confirmed as party bypassed the access-code system
+- ~~Where does the GOVERNOR teleporter pad connect?~~ Not tested directly, but one of the Deep-Speech pads dropped the party inside the manor — confirming the teleporter web links the pyramid and the manor
+
+**Open Questions:**
+- Where does Horbach's forge portal connect? (Where did he go?)
+- What is Ursa's status? Confirmed alive — swept through the Governor's Manor before the party arrived, then vanished
 - Why does the pyramid have Nightmare-era artifacts? Did the mind flayers loot the Ring City?
-- What are the other unidentified weapons in the bag of holding?
+- What are the other unidentified weapons in the bag of holding? (Four Pip can help identify magic items)
+- Who can identify/replicate the assault-rifle ammunition? (Warp couldn't; suggested "that weird captain dude")
 - What are the Gatling gun emplacements' trigger conditions?
 
 ---
@@ -82,15 +97,32 @@
 ---
 
 ### Infiltrate the Government Building
-**Status:** In Progress - Planning Phase
+**Status:** UNINTENTIONALLY BREACHED (2026-07-14) — via pyramid teleporter; Little escaped
 **Objective:** Infiltrate Governor Little's manor
 **Location:** Silverleaf, Silvermoor
 
-**Motivations:**
-- Confront/eliminate Governor John Little (Ardryl's nemesis)
-- Investigate the robot dog (likely Tau) seen visiting with mind flayers
-- Identify the unknown dwarf companion seen with mind flayer ships
-- Gather intelligence on mind flayer command structure
+**How It Happened:**
+- The party did not execute the planned infiltration
+- Escaping the pyramid, they stepped through a newly-active teleporter pad in the Teleporter Room and appeared inside the manor
+- **Ursa had already swept the entire manor** — every guard knocked unconscious, none dead. Party found the aftermath, not the fight
+- Party had ~10 minutes to loot before leaving
+
+**What Was Recovered (10-minute manor toss, 2026-07-14):**
+- **Omicron Beta schematics** (Sierra, crit) — match the robot they just fought; note planned Omicron Gamma iteration; confirm the Greek-letter naming system for the construct line
+- **Hidden escape tunnel** in the master bedroom (Ardryl, 31) — servants' walkways → exit. Presumably how Little fled
+- **Front page of Governor Little's treaty of fealty to the Ring City** (Moz, 31) — real physical document; only page one recovered
+- **Legal precedent for establishing a citizens militia** (Zarius, 31) — actionable political tool
+- **Loot from unconscious guards:** 50 crossbow bolts, 10 crossbows, 10 daggers, 10 saps, 10 scale mail, 10 signal whistles (Sierra took the whistles)
+
+**Not Recovered / Not Encountered:**
+- Governor Little himself (escaped via the tunnel minutes before the party arrived)
+- Tau or the unknown dwarf collaborator (not present)
+- Full treaty document (only page one)
+
+**Follow-Ups:**
+- Little is now on the run — he knows the manor was raided
+- Treaty fragment delivered to Billy Butler — potential to expose Little publicly
+- Ardryl's grudge against Little remains unresolved
 
 **Known Information:**
 - Mind flayer ships visit periodically at night
@@ -156,22 +188,79 @@
 
 ---
 
-### Find Horbach
-**Status:** New - Active (2026-06-02)
-**Objective:** Locate Horbach (a living paragon) believed to be inside the pyramid
-**Location:** Somewhere inside the blue pyramid
+### Rescue Horbach
+**Status:** Time-Critical — one of three mutually-exclusive mission options (2026-07-14)
+**Objective:** Reach Horbach, break the mind-flayer control, extract him
+**Location:** Unknown — escaped the forge via portal (2026-07-14); portal destination unknown
 
-**Known Information:**
-- Zarius's sword has two personalities: Dorn (usually active, currently sleeping) and Horvox (currently active)
-- Horvox spoke unprompted: "I think dad's here" — indicating Horbach is present somewhere in the pyramid
-- Horbach is described as a "living paragon" — god-like in capability but not actually a deity
-- The party believes he is either: a prisoner of the mind flayers, being coerced into making weapons, or (feared) has willingly collaborated
+**Revised Known Information (2026-07-14):**
+- **Horbach is NOT a voluntary collaborator** — the 2026-07-07 read was wrong
+- Ardryl's Recall Knowledge / Perception (invisible, mid-fight) — compared Horbach at the Throne of the Mountain King (*"wide, serene, god-like entity"*) to Horbach at the forge (*"sniveling coward, doing whatever he was told"*). Perceptions do not line up
+- Billy Butler confirmed the pattern: **mind-flayer mind control** — re-ups every few days
+- **Break conditions:** (1) separate him from the controller for a few days, or (2) kill the mind flayer doing the controlling
+- Horbach's forge portal destination is unknown; he fled through it and it closed behind him
+- Zarius's sword (Horvox) has been non-responsive since Horbach fled
+
+**Mission Constraint (2026-07-14):**
+- Choosing this mission **locks out the Druid Grove and White Rabbit missions entirely**
+- Rescue window: a few days before control re-ups. Time-critical
+- **Party chose the White Rabbit instead (2026-08-18) — this mission is NOT being pursued**
+
+**New Details (2026-08-18 debrief):**
+- Horbach's escape portal was **Feywild-related**
+- On the crit-failed Recall, Ardryl is fairly sure Horbach named **"Delstah"** (heard as "Dila") — a figure **dead ~500 years**
+- Billy Butler's read: *"Sounds like they got Delstah too."* The mind flayers may have pulled Delstah out of the Feywild and controlled them the same way they did Horbach — a possible new thread
 
 **Questions:**
-- Where in the pyramid is Horbach?
-- Is he a prisoner, collaborator, or something else?
-- What is his connection to Zarius's sword (specifically the Horvox personality)?
-- If recovered, would he side with the resistance?
+- Where is Horbach now? Where did the portal lead?
+- Which specific mind flayer is controlling him? (Killing them breaks it)
+- What is his connection to Zarius's sword? (Sword still non-responsive)
+- If not rescued in time, what happens? (Does he get a stronger layer of control? Permanent conversion?)
+
+---
+
+---
+
+### The Druid Grove
+**Status:** New — Under Assault (one of three mutually-exclusive mission options, 2026-07-14)
+**Objective:** Defend / relieve the druid grove before it falls
+**Stakes:** If the grove falls, the Nightmares lose complete access to their druid allies
+
+**Known Information:**
+- Being assaulted by an unspecified force
+- **Oak Snarl lives at the druid grove** — Zarius's connection; still not responding to Sending (probably because the grove is under assault)
+- Nightmares have been receiving constant requests for assistance from the grove
+
+**Constraint:** Choosing this mission locks out Rescue Horbach and White Rabbit.
+
+**Party did NOT choose this (2026-08-18)** — they committed to the White Rabbit. Zarius may have gone to the grove/Oak Snarl on his own (written out this session on a solo mission — unconfirmed).
+
+---
+
+### The White Rabbit
+**Status:** ACTIVE — Chosen mission; party is in Keepsake (2026-08-18)
+**Objective:** Investigate the White Rabbit figure appearing in cities
+**Location:** Keepsake — a small mining town ~2 days from the Hanging City; the **third** sighting town
+
+**Known Information:**
+- A figure — the "White Rabbit" — has been sighted in multiple cities
+- **Every town where the White Rabbit has been sighted is emptied** — all people **and all livestock/pets** vanish. Buildings and belongings remain untouched
+- It is **not** a rapture (no meals left mid-eaten) and **not** flight (no signs of hurried leaving). The missing **never turn up elsewhere** and **no one returns** to the emptied towns
+- The rabbit is a **leading indicator / omen**, not the direct mechanism — "something wicked this way comes." Only **Nightmare informants** notice it, not common folk
+- **Firsthand description (2026-08-18):** furry, long-eared, whiskered, **small**, with **six arms** and an **eye patch** (drunk eyewitness + Ardryl's brief look)
+- It can **warp reality** (Ardryl's shout echoed as if in a canyon), it **speaks**, and it fixated on **Ardryl as an "anomaly"** — something that "wasn't supposed to be here," making "this time" different from "last time." Implies it has witnessed/caused this event before (a loop or repetition)
+
+**Constraint:** Choosing this mission locked out Rescue Horbach and the Druid Grove.
+
+**Events at Keepsake (2026-08-18):**
+- Party scouted the town (mining town, ~200 people, shoddy "deterrence theater" wall) and confirmed via Sierra (Society 40) that it has **verifiably zero crime** — no criminal underground
+- Town leadership (Mayor **Kato**, a leshy) and blacksmiths are prepping for a squid attack (reinforce mines into bunkers, stockpile rations, raise a militia)
+- Night one cliffhanger: the White Rabbit **climbed onto Ardryl's chest**, called him an anomaly, and was then **yanked out the door by something unseen**. The door slammed shut. Session ended here
+
+**Open Questions:**
+- What dragged the rabbit off, and where?
+- Why is Ardryl an "anomaly"? What is the "last time" the rabbit keeps referencing?
+- Is Keepsake next to vanish? (~200 people at risk; the drunk saw the rabbit in the woods)
 
 ---
 
@@ -207,12 +296,13 @@ The mind flayers (Illithids) have taken direct control of Silvermoor. Two weeks 
 - Is the robot dog Tau?
 
 ### Oak Snarl
-**Status:** Unresolved
-Zarius sent a Sending spell to Oak Snarl but received no response. The druid was last known to be with the party's boat and Zarius's beer supply.
+**Status:** Under Assault (2026-07-14) — lives at the druid grove, which is the target of an ongoing assault
+Zarius sent a Sending spell to Oak Snarl but received no response. Now explained: the druid grove is under attack, which is why Oak Snarl hasn't been reachable.
 
 **Concerns:**
 - Is Oak Snarl okay?
 - Where is the boat?
+- If the party does not choose the Druid Grove mission, Oak Snarl and the grove may fall
 
 ---
 
@@ -228,6 +318,10 @@ The person following the party was Copper Badger, intel gatherer for the Silverl
 
 ### Black Armbands in Silverleaf
 Jack spotted members of her old assassin company at the Golden Goose tavern. Their presence in the same city as the mind flayers is suspicious and raises questions about their allegiance.
+
+**Update (2026-07-07):** Jack is "an assassin again" and is off on a separate side mission (run one-on-one with the DM). She will not rejoin the party until the current pyramid mission wraps up. Possibly connected to the assassin company thread, but not yet confirmed.
+
+**Update (2026-07-14):** Jack's side job wrapped. She took down a doctor, stole their keycard, and retrieved a **vial of red serum labeled "1445"**. She's back with the party, but not talking about the details: *"something I didn't want to do, but it got the job done."* The serum is currently uninspected.
 
 ### Robot Dog (Tau?)
 A robot dog has been spotted at the government building arriving with mind flayer ships **at night**. Confirmed NOT present during daytime. The party's former companion Tau betrayed them - this could be the same robot dog. Zarius is personally motivated to confront it.

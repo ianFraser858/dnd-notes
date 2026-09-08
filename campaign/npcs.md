@@ -72,6 +72,51 @@
 - **Pronouns:** She/her
 - **Notes:** Was practicing terrible unarmed combat when the party found her. Sierra coached her up to level 1 Monk (critical success). Sierra has adopted her as an ongoing training project.
 
+### Billy Butler
+- **Type:** Nightmares leadership at the Hanging City
+- **Location:** Hanging City (party's home base)
+- **Relationship:** Ally / commanding officer
+- **First On-Screen:** 2026-07-14 (debrief scene)
+- **Notes:**
+  - Runs mission-assignment for the Dreamcatchers
+  - Watched Ash while Jack was on the pyramid mission
+  - Confirmed Horbach's compromised state is mind-flayer control (re-ups every few days)
+  - Handles administrative issues (routing Ivan/Even's 500 gp invoice via Grim)
+  - Presented the three mutually-exclusive next-mission options (Druid Grove / Rescue Horbach / White Rabbit); party committed to the **White Rabbit** (2026-08-18)
+  - Sent the party to **Keepsake** and shared the White Rabbit intel; will reach out to **drow friends** for more. Visibly overwhelmed by the end of the world
+  - On hearing "Delstah" from Ardryl's Horbach debrief: *"Sounds like they got Delstah too."* (2026-08-18)
+
+### Warp
+- **Type:** Crafter / magic-item specialist at the Hanging City
+- **Relationship:** Ally / party's usual go-to for gear
+- **First On-Screen:** 2026-07-14
+- **Notes:**
+  - Got the assault rifle's safety and magazine off, but cannot identify or replicate the ammunition — Starfinder-tech is beyond him
+  - Explicitly non-magical work is outside his area; **magic items only**
+  - Suggested "that weird captain dude wandering around" as a possible expert on the ammo
+  - The party has not sought out the "weird captain dude" yet
+
+### Ash
+- **Type:** Jack's close friend/companion at the Hanging City
+- **Relationship:** Friendly (personal to Jack)
+- **Notes:**
+  - Still upset over **Arka's death** (Ash and Arka were BFFs; Arka is deceased)
+  - Enjoyed the week with Billy Butler in Jack's absence
+  - Confides in Jack
+
+### Grim
+- **Type:** Nightmares' money handler
+- **Relationship:** Implied ally (via Billy Butler)
+- **Notes:** Billy Butler routes financial issues through Grim (e.g., Ivan/Even's 500 gp invoice)
+
+### The "Weird Captain Dude"
+- **Type:** Unknown expert wandering the Hanging City
+- **Relationship:** Unknown — not yet approached
+- **Notes:**
+  - Warp suggested him as an expert on the pyramid's assault-rifle ammunition
+  - Party asked if he had a metal arm — DM was noncommittal
+  - Not yet sought out
+
 ### The Golden Goose Waiter
 - **Type:** Waiter / potential resistance recruit
 - **Location:** The Golden Goose tavern, Silverleaf
@@ -113,16 +158,78 @@
 
 ## Neutral / Unknown
 
+### The White Rabbit
+- **Type:** Unknown reality-warping entity (an omen preceding towns vanishing)
+- **Location:** Sighted around Keepsake; appeared to Ardryl personally (2026-08-18)
+- **Relationship:** Unknown — mysterious; the party's current mission target
+- **Appearance:** Furry, long-eared, whiskered, **small**, with **six arms** and an **eye patch** (drunk eyewitness + Ardryl's brief look)
+- **Notes:**
+  - Every town it's been sighted at is later emptied — all people **and** livestock/pets gone, belongings untouched, no bodies, no one returns. Keepsake is the third such town
+  - It is an **omen / leading indicator**, not the apparent direct cause. Only Nightmare informants notice it
+  - Can **warp reality** (Ardryl's shout echoed as if in a canyon) and **speaks**
+  - Fixated on **Ardryl as an "anomaly"** — "you weren't supposed to be here"; says "this time" is different from "last time," "something is going to change this time." Strongly implies it has experienced this event before (a loop)
+  - Climbed onto Ardryl's chest at night, monologued, then was **yanked out the door by something unseen** (2026-08-18 cliffhanger)
+
+### Kato
+- **Type:** Mayor of Keepsake; a leshy
+- **Location:** Keepsake (small mining town ~2 days from the Hanging City)
+- **Relationship:** Neutral / town leadership
+- **First On-Screen:** 2026-08-18
+- **Notes:** Overheard planning for the squid threat — favors reinforcing the mines into bunkers and stockpiling rations over relocating to (possibly-fallen) Sledgehammer. Thinks Keepsake may be hit last. (DM initially mis-named him "Tim" before correcting — Tim is the bar owner.)
+
+### Tim
+- **Type:** Bar owner / bartender in Keepsake; a tall elf
+- **Relationship:** Friendly
+- **First On-Screen:** 2026-08-18
+- **Notes:** Runs the only lodging in town (two rooms, three beds). Lives above the bar. Charged the party 15 silver for rooms + tab.
+
+### Ruby
+- **Type:** Dwarf serving girl at Tim's bar, Keepsake
+- **Relationship:** Friendly
+- **First On-Screen:** 2026-08-18
+- **Notes:** Recognized Moz as **not** an elf. (Worldbuilding: the setting's dwarves are insectivores.)
+
+### "Greg" the Gate Guard (a.k.a. "Da")
+- **Type:** Keepsake town guard (one of ~5); ~25, ~3 years on the job
+- **Relationship:** Friendly but evasive (Sierra: genial but "lying his ass off")
+- **First On-Screen:** 2026-08-18
+- **Notes:** Insists Keepsake has no crime because big criminals are executed. Mistook Moz for a forest elf. Named "Da"/"Greg with three G's" by the table.
+
+### Sheriff Alan
+- **Type:** Sheriff of Keepsake ("little guy, big voice")
+- **Relationship:** Unknown (not yet met on-screen)
+- **First Mentioned:** 2026-08-18
+
+### The Eyewitness Drunk
+- **Type:** Keepsake local (heavy accent)
+- **Relationship:** Harmless
+- **First On-Screen:** 2026-08-18
+- **Notes:** Claims to have seen a **six-armed rabbit with an eye patch, small and cute**, in the woods. Dismissed by his friends. The party's best firsthand White Rabbit lead.
+
+### Victoria (Keepsake General Store) — Mentioned
+- Runs Keepsake's general store; trades with caravans (source of the town's orcish beer). Named in the town's mine-bunker/rations contingency plan. Not yet met on-screen.
+
 ### Horbach
 - **Type:** Living Paragon (god-like but not a deity)
-- **Location:** Believed to be somewhere inside the blue pyramid (confirmed by Horvox, 2026-06-02)
-- **Relationship:** Unknown — ally, prisoner, or threat
+- **Location:** Unknown — fled the pyramid forge via portal (2026-07-14). Portal destination unknown.
+- **Relationship:** **Compromised — under mind-flayer control, not a willing collaborator** (revised 2026-07-14)
+- **Appearance:** Dwarf with one arm literally on fire; wields a large forging hammer
 - **Notes:**
   - Described by the party as "god-like" but technically a "living paragon" — the distinction matters to dwarves who use him as a figure to emulate rather than worship
-  - Zarius's sword (Horvox personality) sensed his presence inside the pyramid and said "I think dad's here"
-  - The party theorizes he is either: a prisoner being forced to make weapons for the mind flayers, a voluntary collaborator, or has been converted
-  - If recovered, he would be a significant asset to the resistance — his capability would dwarf most allies
-  - Connection to Zarius's sword (Horvox) is unclear
+  - Zarius's sword (Horvox personality) sensed his presence inside the pyramid and said "I think dad's here" (2026-06-02); confirmed by voice/presence at the forge (Horvox diplomacy 32: "It sounds like dad") (2026-07-07)
+  - **CORRECTION (2026-07-14):** Last session's read (voluntary collaborator) was wrong. Ardryl's Recall Knowledge / Perception comparison — Horbach at the **Throne of the Mountain King** was a *"wide, serene, god-like entity"*; Horbach at the forge was a *"sniveling coward, doing whatever he was told"*. The two perceptions do not line up. Confirmed by Billy Butler: this is mind-flayer control.
+  - **Mind-flayer control has to be re-upped every few days.** Break conditions: (1) separate him from the controller for a few days, or (2) kill the mind flayer doing the controlling.
+  - Fled the forge fight in round 3 via his portal; portal closed behind him. Location now unknown. The escape portal was **Feywild-related** (2026-08-18 debrief).
+  - On Ardryl's crit-failed Recall, Horbach apparently named **"Delstah"** (heard as "Dila") — a figure dead ~500 years. Billy Butler suspects the mind flayers "got Delstah too" (see Delstah). (2026-08-18)
+  - Uses an access-code challenge system at the forge; used a button on the forge to open the escape portal
+  - Party's rescue window is time-limited before control re-ups. One of three mutually-exclusive mission options currently on the board (2026-07-14).
+  - Connection to Zarius's sword (Horvox personality) is still unexplained — sword has been non-responsive since Horbach fled
+
+### Delstah
+- **Type:** Unknown historical figure — **dead ~500 years**
+- **Relationship:** Unknown
+- **First Mentioned:** 2026-08-18
+- **Notes:** Named by the compromised Horbach (Ardryl's crit-failed Recall, heard as "Dila"). Billy Butler suspects the mind flayers have pulled Delstah out of the **Feywild** and controlled them the same way they did Horbach. Otherwise a total unknown.
 
 ### Da
 - **Notes:** "On a completely other plane of existence" - party has encountered or knows of this individual
@@ -221,6 +328,33 @@
   - Likely Tau, the party's former companion who betrayed them
   - Accompanied by an unknown dwarf
   - Zarius is personally motivated to confront it
+
+### Omicron Beta — Horbach's Bodyguard (Defeated)
+- **Type:** Large mechanical construct (transforming, dog → giant robot with two-handed glaive)
+- **Location:** Forge chamber, deep in the blue pyramid
+- **Relationship:** Hostile
+- **First Encountered:** 2026-07-07 | **Defeated:** 2026-07-14
+- **Notes:**
+  - **Formally designated "Omicron Beta"** per schematics recovered from the Governor's Manor (2026-07-14)
+  - Built on the **Omicron chassis** (the "big bulky one" Tau previously described) — this is a variant, likely fused with Tau-style dog form
+  - Design brief on the schematics: unparalleled stealth + terrifying combat prowess (stealth unverified — party saw it for ~30 seconds before combat)
+  - **Combat behavior:** Two-handed glaive, defensive stance, big crit range — landed a 60-damage crit on Zarius
+  - Reflex save 29 (took half from a 5th-level Fireball at DC 29)
+  - Slowed successfully by DC 30 Slow (met save, still slowed 1 round)
+  - **Immune / crit-succeeded** against Moz's Suggestion — construct
+  - **Zarius's rapier bent** against its armor on a crit-fail Spellstrike
+  - Neutralized after Horbach fled through his portal in round 3
+
+### Omicron Product Line (Mind-Flayer Constructs)
+- **Type:** Graded series of transforming combat constructs
+- **Source of Intel:** Tau (background info); Governor's Manor schematics (2026-07-14)
+- **Known Models:**
+  - **Omicron** — the big bulky base chassis
+  - **Omicron Beta** — dog-form fusion, defeated 2026-07-14
+  - **Omicron Gamma** — planned next iteration per schematics: reduce size, increase firepower
+  - **Kappa** — unspecified role
+  - **Gamma** — "the wild weezy one — gotta be careful around that"
+- **Notes:** Blueprints use an unfamiliar metal and an alloy-bonding technique the party cannot replicate. Sierra retains the schematics for study. Any Nightmares expert on non-magical exotic tech would be relevant (Warp handles magic items only — cannot help)
 
 ### Unknown Dwarf Collaborator
 - **Type:** Unknown
