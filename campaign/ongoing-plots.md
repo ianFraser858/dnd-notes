@@ -238,11 +238,22 @@
 ---
 
 ### The White Rabbit
-**Status:** ACTIVE — Chosen mission; party is in Keepsake (2026-08-18)
-**Objective:** Investigate the White Rabbit figure appearing in cities
-**Location:** Keepsake — a small mining town ~2 days from the Hanging City; the **third** sighting town
+**Status:** ACTIVE — The White Rabbit (Tupi Lulu) is now a wary ally; the real threat is a memory demon. **Keepsake dies in ~36 hours** (as of the campfire, 2026-10-06)
+**Objective:** ~~Investigate the White Rabbit figure appearing in cities~~ → Find and kill the memory demon hiding in Keepsake before it finishes the town
+**Location:** Keepsake — a small mining town ~2 days from the Hanging City; the **third** town hit
 
-**Known Information:**
+**The Real Picture (per Tupi Lulu, 2026-10-06):**
+- The White Rabbit is **Tupi Lulu**, a cursed hunter from another planet who rewinds time to chase a **memory demon** across worlds. He appears in doomed towns because he is tracking what dooms them
+- The **memory demon** devours people and erases everyone's memory of them. Homes and belongings are left untouched — which is what the emptied towns look like
+- The demon serves the **progenitor of Tupi Lulu's curse** (an unidentified fiend, not on this world as far as he knows)
+- It is weak after hellmouth travel and feeds to regain strength. **After ~5 towns it is too strong for him to hurt.** Keepsake is town three
+- On other worlds it eats about **half the population** in a couple of months unless the planet concedes first. It arrives as a **vanguard** (before the first hellmouth opens — best chance to kill it), a **reckoning**, or a **message**
+- **No hellmouth is known on this planet.** Tupi Lulu expected one and finds its absence troubling
+- Tupi Lulu can reset a single place (start of a day, up to ~3 days back) a limited number of times before "grisly effects." **This is his second run-through of Keepsake.** Outsiders are unaffected by a local reset — the party is the "anomaly," the only thing different from the last run
+- **If Keepsake fails:** he rolls back, collects the party, and they try the next town. If that fails, roughly half the planet dies
+- **Fighting it:** no known weaknesses; he has only ever hurt it by hitting it very hard and has never seen it bleed. It bites, bashes, and claws. Unknown how it erases memory. He has never found its lair inside a town
+
+**Original Intel (before 2026-10-06):**
 - A figure — the "White Rabbit" — has been sighted in multiple cities
 - **Every town where the White Rabbit has been sighted is emptied** — all people **and all livestock/pets** vanish. Buildings and belongings remain untouched
 - It is **not** a rapture (no meals left mid-eaten) and **not** flight (no signs of hurried leaving). The missing **never turn up elsewhere** and **no one returns** to the emptied towns
@@ -257,10 +268,38 @@
 - Town leadership (Mayor **Kato**, a leshy) and blacksmiths are prepping for a squid attack (reinforce mines into bunkers, stockpile rations, raise a militia)
 - Night one cliffhanger: the White Rabbit **climbed onto Ardryl's chest**, called him an anomaly, and was then **yanked out the door by something unseen**. The door slammed shut. Session ended here
 
+**Events at Keepsake (2026-09-15):**
+- Ardryl opened the door to follow the creature and woke the next morning in the hallway, **missing 50% of his HP with no memory** of what happened. No magic on the door (Sierra, Arcana 32); no fur or tracks in the hall or on his bed
+- Per Ruby, **no one in Keepsake has disappeared yet**. The one local oddity: **Greg from the shoe factory**, who feels a presence and says "the walls want him"
+- The six-armed-rabbit eyewitness is a hunter named **Greg**; find him at the **hunters' lodge** (not yet visited)
+- Party bought a box trap, passed a skill challenge 6–9 to find rabbit burrows in the forest, and caught ~12 ordinary brown rabbits over six hours
+- At dusk, **white figures** appeared in peripheral vision to Ardryl, Sierra, and Jack — **never to Moz**. They vanish when looked at, leave no marks, are not illusions or invisible, and See the Unseen can't resolve whether they're incorporeal. Each was heading a different direction, all away from the party
+- Ardryl followed his (as Hunted Prey) deep into the forest to a **~4-foot translucent glowing sphere** holding a **white-furred, long-eared, puffy-cheeked creature in meditation — two sets of arms visible, covered in scars, missing an eye**. It did not respond to "Hello, friend"
+- Cliffhanger: **Sierra ran up and touched the orb**
+
+**Events at Keepsake (2026-10-06):**
+- Touching the orb got Sierra slammed into a tree and held by the throat (Escape DC 42). Ardryl talked the creature down; it named him leader of "Clan Ardryl"
+- The white figures were revealed as **solid alternate versions of Tupi Lulu**
+- He questioned Ardryl about the past day. Everything matched his previous run-through except the party. Two details caught his attention: **Ardryl being knocked out** after the small rabbit's visit, and **Tim the bartender not being seen** the next morning
+- Around a campfire he told his story (see The Real Picture above) and announced **Keepsake has 36 hours**
+- No fight. Joey confirmed afterward that attacking him would have meant fighting his alternate selves, losing, and burning a reset
+
+**Resolved:**
+- ~~What happens when the orb is touched?~~ He attacks whoever touched it
+- ~~What are the white figures?~~ His alternate selves
+- ~~Why is Ardryl an "anomaly"? What is "last time"?~~ The party wasn't in Keepsake on the previous run-through
+- ~~Is the creature causing the disappearances or warning of them?~~ Neither — he is hunting the cause
+
 **Open Questions:**
-- What dragged the rabbit off, and where?
-- Why is Ardryl an "anomaly"? What is the "last time" the rabbit keeps referencing?
-- Is Keepsake next to vanish? (~200 people at risk; the drunk saw the rabbit in the woods)
+- Where is the demon's lair in Keepsake, and what does it look like while small?
+- What took half of Ardryl's HP and his memory behind the door? (The enemy takes memories; Tupi Lulu did not expect this)
+- Where was Tim that morning?
+- How many resets does Keepsake have left?
+- Is a hellmouth coming, and where?
+- Why couldn't Moz see the alternate selves?
+- Does the demonic incursion connect to the mind flayers at all?
+
+**Leads in Keepsake:** Tim's absence; Greg from the shoe factory ("the walls want him"); the cow-bite job on the notice board; hunters' lodge / Greg the hunter; Ardryl's lost night
 
 ---
 

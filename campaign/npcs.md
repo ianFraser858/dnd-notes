@@ -158,17 +158,38 @@
 
 ## Neutral / Unknown
 
-### The White Rabbit
-- **Type:** Unknown reality-warping entity (an omen preceding towns vanishing)
-- **Location:** Sighted around Keepsake; appeared to Ardryl personally (2026-08-18)
-- **Relationship:** Unknown — mysterious; the party's current mission target
-- **Appearance:** Furry, long-eared, whiskered, **small**, with **six arms** and an **eye patch** (drunk eyewitness + Ardryl's brief look)
+### Tupi Lulu (the White Rabbit)
+- **Type:** Cursed hunter from another planet; time-rewinding demon hunter. Name means "white rabbit" (strictly "pearl rabbit")
+- **Location:** A forest clearing outside Keepsake (2026-10-06)
+- **Relationship:** **Wary ally** (2026-10-06). Calls the party "Clan Ardryl" and deals with Ardryl as its leader; calls Moz "lying gith boy"
+- **Appearance:** **Medium**, white fur, puffy cheeks, two long ears, covered in scars, missing an eye. Multiple arms on each side that **coil together into one large muscular arm**. (The hunter's "small, six arms, eye patch" sighting and Ardryl's small night visitor were likely his alternate selves)
+- **Who He Is (2026-10-06):**
+  - Has **lived ~3,000 years** over ~20 real years. Cursed by a fiend to "repeat this day until you end your own" after a memory demon devoured his home town; he learned to control the rewind and has chased the demon from planet to planet since, losing every time
+  - **Rewind:** can reset a single place to the start of a day, up to ~3 days back, a limited number of times before "grisly effects." Refuses to reset the whole timeline (that is the curse winning). Keepsake is on its **second run-through**
+  - Can manifest **solid alternate versions of himself** (seen: Exiled Revolutionary, Mage Knight, Graviton Assassin, Veteran Master) and seal himself in an **impenetrable glowing dome**
+  - Travels by hellmouth and by **spelljammer**. Knows what a gith is and what an "Iron Rain" is
+  - Far beyond the party: Escape DC 42, AC ~35; Joey describes him as roughly a level 25 gestalt monk/wizard, fully custom
+  - Manic, condescending, exhausted. Believes he will finally kill the demon "probably on the next planet" — unless the party changes things here
+- **History with the Party:**
+  - Original intel from Billy Butler (2026-08-18): sighted by Nightmare informants in towns that were later emptied — people, livestock, and pets gone, belongings untouched. Keepsake is the third such town
+  - A small version of him singled out **Ardryl as an "anomaly"** — "you weren't supposed to be here," "something is going to change this time" — while Ardryl's shout echoed as if in a canyon (2026-08-18)
+  - It climbed onto Ardryl's chest at night, monologued, then was **yanked out the door by something unseen** (2026-08-18 cliffhanger)
+  - Ardryl opened the door after it and woke the next morning in the hallway, **down 50% HP with no memory**. It left **no fur, no tracks, and no magic** behind (2026-09-15)
+  - Found in the forest inside a **~4-foot translucent glowing sphere**, meditating and unresponsive to Ardryl's greeting. **Sierra touched the sphere** (2026-09-15 cliffhanger)
+  - Instantly pinned Sierra to a tree by the throat and demanded to know how they found him. Ardryl talked him down; he released her, questioned Ardryl alone, then told his story at a campfire (2026-10-06)
+  - What the party now knows (2026-10-06): he is not the cause of the vanishings — he is hunting the memory demon responsible (see Enemies). "Last time" was his previous run-through of Keepsake, which the party wasn't part of
+
+### The White Figures — RESOLVED (2026-10-06)
+- **Type:** Tupi Lulu's alternate selves — "different potential versions" of him (a military leader, a younger one, a heavier unscarred two-eyed one)
+- **First On-Screen:** 2026-09-15
 - **Notes:**
-  - Every town it's been sighted at is later emptied — all people **and** livestock/pets gone, belongings untouched, no bodies, no one returns. Keepsake is the third such town
-  - It is an **omen / leading indicator**, not the apparent direct cause. Only Nightmare informants notice it
-  - Can **warp reality** (Ardryl's shout echoed as if in a canyon) and **speaks**
-  - Fixated on **Ardryl as an "anomaly"** — "you weren't supposed to be here"; says "this time" is different from "last time," "something is going to change this time." Strongly implies it has experienced this event before (a loop)
-  - Climbed onto Ardryl's chest at night, monologued, then was **yanked out the door by something unseen** (2026-08-18 cliffhanger)
+  - Coalesced as solid bodies around the party when Ardryl asked whether the small rabbit was him (2026-10-06)
+  - Would have been the party's opponents had they attacked him
+  - Visible only in **peripheral vision**; vanish when looked at directly; leave **no marks** on the ground
+  - Seen by Ardryl, Sierra, and Jack — **never by Moz**
+  - Not illusions and not invisible. See the Unseen tried to treat them as incorporeal and **couldn't resolve them**
+  - Several at once, each moving in a different direction, all away from the party. Ardryl's (his Hunted Prey) led him to the orb
+  - Still unexplained: why Moz couldn't see them
 
 ### Kato
 - **Type:** Mayor of Keepsake; a leshy
@@ -181,33 +202,53 @@
 - **Type:** Bar owner / bartender in Keepsake; a tall elf
 - **Relationship:** Friendly
 - **First On-Screen:** 2026-08-18
-- **Notes:** Runs the only lodging in town (two rooms, three beds). Lives above the bar. Charged the party 15 silver for rooms + tab.
+- **Notes:**
+  - Runs the only lodging in town (two rooms, three beds). Lives above the bar. Charged the party 15 silver for rooms + tab
+  - **Not seen the morning after the rabbit's visit** — Ruby was working alone. Tupi Lulu asked about him specifically (2026-10-06). Worth checking
 
 ### Ruby
 - **Type:** Dwarf serving girl at Tim's bar, Keepsake
 - **Relationship:** Friendly
 - **First On-Screen:** 2026-08-18
-- **Notes:** Recognized Moz as **not** an elf. (Worldbuilding: the setting's dwarves are insectivores.)
+- **Notes:**
+  - Recognized Moz as **not** an elf. (Worldbuilding: the setting's dwarves are insectivores.)
+  - Told Jack that **no one in Keepsake has gone missing**, and that the only person with "presence" stories is Greg from the shoe factory (2026-09-15)
 
-### "Greg" the Gate Guard (a.k.a. "Da")
-- **Type:** Keepsake town guard (one of ~5); ~25, ~3 years on the job
-- **Relationship:** Friendly but evasive (Sierra: genial but "lying his ass off")
-- **First On-Screen:** 2026-08-18
-- **Notes:** Insists Keepsake has no crime because big criminals are executed. Mistook Moz for a forest elf. Named "Da"/"Greg with three G's" by the table.
+### The Gregs of Keepsake
+Joey's rule: every NPC whose name doesn't matter is **Greg**. The one who does matter gets an extra G.
+
+- **Gregg (three G's) — orc blacksmith.** The important one (renamed from "Winston"). Has military training; the other smiths want him to raise a town militia. Seen at the blacksmiths' table 2026-08-18; not yet spoken to
+- **Greg the gate guard (a.k.a. "Da").** One of ~5 town guards; ~25, ~3 years on the job. Friendly but evasive (Sierra: genial but "lying his ass off"). Insists Keepsake has no crime because big criminals are executed. Mistook Moz for a forest elf. First on-screen 2026-08-18
+- **Greg the hunter.** The drunk eyewitness (see below)
+- **Greg from the shoe factory.** "A little woohoo" per Ruby — always talking about **a presence around him** and how **"the walls want him."** Not yet met (mentioned 2026-09-15)
 
 ### Sheriff Alan
 - **Type:** Sheriff of Keepsake ("little guy, big voice")
 - **Relationship:** Unknown (not yet met on-screen)
 - **First Mentioned:** 2026-08-18
 
-### The Eyewitness Drunk
-- **Type:** Keepsake local (heavy accent)
+### Greg the Hunter (the Eyewitness Drunk)
+- **Type:** Keepsake hunter (heavy accent)
 - **Relationship:** Harmless
 - **First On-Screen:** 2026-08-18
-- **Notes:** Claims to have seen a **six-armed rabbit with an eye patch, small and cute**, in the woods. Dismissed by his friends. The party's best firsthand White Rabbit lead.
+- **Notes:**
+  - Claims to have seen a **six-armed rabbit with an eye patch, small and cute**, in the woods. Dismissed by his friends. The party's best firsthand White Rabbit lead
+  - Identified by Victoria as a hunter named Greg (2026-09-15). Find him at the **hunters' lodge** later in the day — the hunters sleep in. Not yet followed up
 
-### Victoria (Keepsake General Store) — Mentioned
-- Runs Keepsake's general store; trades with caravans (source of the town's orcish beer). Named in the town's mine-bunker/rations contingency plan. Not yet met on-screen.
+### Victoria
+- **Type:** Halfling owner of Keepsake's general store
+- **Relationship:** Friendly
+- **First On-Screen:** 2026-09-15 (seen at the bar 2026-08-18 as one of the two well-regarded halflings)
+- **Notes:**
+  - Trades with caravans (source of the town's orcish beer). Named in the town's mine-bunker/rations contingency plan
+  - Sold the party a box trap (1 sp, buys it back for 5 cp) and rabbit bait (5 cp)
+  - Passed on the six-armed-rabbit rumor but doesn't believe it — "do you know a hunter that's not usually at least a little bit inebriated?"
+
+### Saris
+- **Type:** Halfling helper at Keepsake's general store
+- **Relationship:** Friendly
+- **First On-Screen:** 2026-09-15 (the other halfling from the bar)
+- **Notes:** Fetches stock from the back room and answers in thumbs-ups. Also named in the rations contingency plan.
 
 ### Horbach
 - **Type:** Living Paragon (god-like but not a deity)
@@ -275,6 +316,19 @@
 ---
 
 ## Enemies
+
+### The Memory Demon
+- **Type:** Fiend (Tupi Lulu says "demon" loosely); planet-killer in its early, weak stage
+- **Location:** Hiding somewhere in **Keepsake** — lair unknown
+- **Relationship:** Hostile; the party's current target. Not yet seen
+- **First Mentioned:** 2026-10-06
+- **Notes:**
+  - **Devours people and erases all memory of them.** Physical traces stay (clean houses, stocked pantries); survivors' minds paper over the gap. Responsible for the two emptied towns Billy Butler described
+  - Weak after traveling through a hellmouth; feeds town by town to recover. **After ~5 towns nothing Tupi Lulu does can hurt it.** Keepsake is town three, and it will finish the town in ~36 hours (as of 2026-10-06)
+  - On other worlds: about half the population eaten in roughly two months, then it leaves by hellmouth — unless the planet concedes first
+  - Serves the **progenitor of Tupi Lulu's curse**, an unidentified fiend elsewhere
+  - Attacks with teeth, body, and claws. No known weaknesses; has never been seen to bleed or to cast. "Tricky little bugger when it's small"
+  - Possible traces in Keepsake (unconfirmed): Ardryl's lost memory and HP behind the inn door; Greg from the shoe factory's "presence"; the cow with a bite taken out of it
 
 ### Governor John Little
 - **Type:** Corrupt politician / voluntary mind flayer collaborator

@@ -76,7 +76,7 @@ At the gate, a guard stopped them, immediately mistaking **Moz** (githyanki) for
 
 The DM initially named the mayor "Tim," then corrected: **Tim is the bar owner**; the **mayor is Kato, a leshy** (not an elf). The town **sheriff is Alan** — "little guy, big voice, you can hear him yelling from anywhere."
 
-The guard insisted there's **no crime** in Keepsake — big criminals are simply **executed**, which deters everyone; last arrest was ~5 months ago (a bread thief who now works at the general store to pay it off). The party never got his name, so the table named him **"Da,"** which the DM converted into a running gag: everyone whose name doesn't matter is **"Greg,"** but this one is **"Greg with three G's"** (important, unlike ordinary two-G Gregs).
+The guard insisted there's **no crime** in Keepsake — big criminals are simply **executed**, which deters everyone; last arrest was ~5 months ago (a bread thief who now works at the general store to pay it off). The party never got his name, so the table named him **"Da,"** which the DM converted into a running gag: everyone whose name doesn't matter is **"Greg,"** the gate guard included. To keep one Greg distinct, the DM renamed a pre-written NPC (formerly "Winston") to **"Greg with three G's"** (Gregg) — important, unlike ordinary two-G Gregs. That one turned out to be the orc blacksmith.
 
 ### Part 8: The Suspicious Absence of Crime
 Sierra (Sam's character, played with a heavy accent) doesn't trust a town with no crime — *"means everyone's on the take."*
@@ -103,7 +103,7 @@ Notable tables (all treated with deference by the room):
 
 **Eavesdropping (per character):**
 - **Jack on Kato + the goblin (Perception 31):** end-of-the-world contingency planning. Options weighed: relocate to Sledgehammer (rumored already squid-occupied — bad) or **reinforce the mines into bunkers** (misheard as "minds") and stockpile rations down there. They want **Saris and Victoria** to gather extra rations. Kato figures Keepsake is low on the totem pole and might be hit last.
-- **Ardryl on the blacksmith table (Perception 30):** the **mines are doing well and feeding the forges.** They're debating asking Kato to switch from no production to **making maces and armor for the guards, lighter armor for townsfolk,** and training a **militia** — the gnome asked the orc (also called "Greg") to use his military training to stand one up.
+- **Ardryl on the blacksmith table (Perception 30):** the **mines are doing well and feeding the forges.** They're debating asking Kato to switch from no production to **making maces and armor for the guards, lighter armor for townsfolk,** and training a **militia** — the gnome asked the orc (**Gregg**, the three-G Greg) to use his military training to stand one up.
 - **Sierra:** watched all night for ghosts / invisible / cloaked threats (used **See the Unseen**) — **nothing.** The DM and party leaned into her ongoing paranoia (explicitly linked to the fallout from Tau's betrayal).
 - **Moz:** feigned enjoying his wine while observing — confirmed the whole room pays **deference** to those specific groups, and that in a packed bar those important tables each get one to themselves while everyone else shares.
 
@@ -157,7 +157,7 @@ The creature was then **yanked off Ardryl and whisked out the door**, which **sl
 ### "Greg" the Gate Guard (a.k.a. "Da")
 - **Role:** Keepsake town guard (one of ~5)
 - **Disposition:** Friendly / a bit evasive (Sierra: "lying his ass off," though genial)
-- **Key Info:** Insists there's no crime because big criminals are executed. Only ~25, been a guard ~3 years. Mistook Moz for a forest elf. Named "Da"/"Greg with three G's" by the table.
+- **Key Info:** Insists there's no crime because big criminals are executed. Only ~25, been a guard ~3 years. Mistook Moz for a forest elf. Named "Da" by the table, then plain "Greg" (the DM's default for unnamed NPCs).
 
 ### Sheriff Alan
 - **Role:** Sheriff of Keepsake ("little guy, big voice")
@@ -172,7 +172,7 @@ The creature was then **yanked off Ardryl and whisked out the door**, which **sl
 ### Mentioned, Not Met
 - **Victoria** — runs the Keepsake general store; trades with caravans (source of the town's orcish beer). Named in the mines/rations plan.
 - **"Mark"** — the goblin in conversation with Mayor Kato.
-- **"Greg" the Orc** — blacksmith with military training, being asked to raise a town militia.
+- **Gregg the Orc (Greg with three G's)** — blacksmith with military training, being asked to raise a town militia. The one Greg whose name matters.
 - **The two halflings** — treated as important by the room; their conversation went un-eavesdropped.
 
 ---
@@ -199,7 +199,7 @@ The creature was then **yanked off Ardryl and whisked out the door**, which **sl
 
 > "We're literally joining the war on crime — on the side of crime." — the party
 
-> "He's Greg with three G's, not Greg with two G's. Emily, keep up." — the table, on the gate guard
+> "He's Greg with three G's, not Greg with two G's. Emily, keep up." — the table, on the one Greg who matters
 
 > "You weren't an anomaly... something is going to change this time. An anomaly — I love anomalies, anomalies are great." — the White Rabbit, on Ardryl's chest
 
