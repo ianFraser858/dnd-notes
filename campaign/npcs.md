@@ -161,7 +161,7 @@
 ### Tupi Lulu (the White Rabbit)
 - **Type:** Cursed hunter from another planet; time-rewinding demon hunter. Name means "white rabbit" (strictly "pearl rabbit")
 - **Location:** A forest clearing outside Keepsake (2026-10-06)
-- **Relationship:** **Wary ally** (2026-10-06). Calls the party "Clan Ardryl" and deals with Ardryl as its leader; calls Moz "lying gith boy"
+- **Relationship:** **Ally by deal** (2026-10-13): if the party helps him kill the memory demon, he'll help with one of their problems — the coming demons or the mind flayers. Calls the party "Clan Ardryl" and deals with Ardryl as its leader; calls Moz "lying gith boy"
 - **Appearance:** **Medium**, white fur, puffy cheeks, two long ears, covered in scars, missing an eye. Multiple arms on each side that **coil together into one large muscular arm**. (The hunter's "small, six arms, eye patch" sighting and Ardryl's small night visitor were likely his alternate selves)
 - **Who He Is (2026-10-06):**
   - Has **lived ~3,000 years** over ~20 real years. Cursed by a fiend to "repeat this day until you end your own" after a memory demon devoured his home town; he learned to control the rewind and has chased the demon from planet to planet since, losing every time
@@ -170,6 +170,9 @@
   - Travels by hellmouth and by **spelljammer**. Knows what a gith is and what an "Iron Rain" is
   - Far beyond the party: Escape DC 42, AC ~35; Joey describes him as roughly a level 25 gestalt monk/wizard, fully custom
   - Manic, condescending, exhausted. Believes he will finally kill the demon "probably on the next planet" — unless the party changes things here
+  - **More background (2026-10-13):** for hundreds of years the curse had him **eaten by the demon every day** before he gained any control; he is "not a hundred percent all there." Doesn't know what kind of fiend cursed him. Of his home village, he remembers only that he was its hunter. After the memory demon, he means to hunt down the fiend that cursed him (the memory demon is its lieutenant)
+  - **Out of resets for Keepsake** (2026-10-13): "I'm not resetting"
+  - Stays at the forest's edge rather than entering town (six feet tall, six arms, unused to people). Skilled cook
 - **History with the Party:**
   - Original intel from Billy Butler (2026-08-18): sighted by Nightmare informants in towns that were later emptied — people, livestock, and pets gone, belongings untouched. Keepsake is the third such town
   - A small version of him singled out **Ardryl as an "anomaly"** — "you weren't supposed to be here," "something is going to change this time" — while Ardryl's shout echoed as if in a canyon (2026-08-18)
@@ -196,15 +199,40 @@
 - **Location:** Keepsake (small mining town ~2 days from the Hanging City)
 - **Relationship:** Neutral / town leadership
 - **First On-Screen:** 2026-08-18
-- **Notes:** Overheard planning for the squid threat — favors reinforcing the mines into bunkers and stockpiling rations over relocating to (possibly-fallen) Sledgehammer. Thinks Keepsake may be hit last. (DM initially mis-named him "Tim" before correcting — Tim is the bar owner.)
+- **Notes:**
+  - Overheard planning for the squid threat — favors reinforcing the mines into bunkers and stockpiling rations over relocating to (possibly-fallen) Sledgehammer. Thinks Keepsake may be hit last. (DM initially mis-named him "Tim" before correcting — Tim is the bar owner.)
+  - Owns a gem-encrusted **ceremonial sword** made by Misty (2026-10-13)
+  - Busy all day with the head farmers over a crop-labor shortage; the party saw his deputy, Mark, instead (2026-10-13)
 
-### Tim
-- **Type:** Bar owner / bartender in Keepsake; a tall elf
+### Deputy Mayor Mark
+- **Type:** Goblin deputy mayor of Keepsake
 - **Relationship:** Friendly
+- **First On-Screen:** 2026-10-13 (the goblin talking with Kato at the bar, 2026-08-18)
+- **Notes:**
+  - Says ~40 villagers (20% of the town) "moved away" recently, destination unknown. Most miners are now working the crops
+  - Gave the party permission to explore the mines: "structurally stable," put the tools back
+  - Thinks the party's armor is "a little bit too good for around here"
+
+### Francis
+- **Type:** Elf armorsmith in Keepsake ("Francis" is a common-tongue name, not his real one)
+- **Relationship:** Friendly
+- **First On-Screen:** 2026-10-13 (the elf at the blacksmiths' table, 2026-08-18)
+- **Notes:** Most mines are gem mines; one produces metal. Doesn't source metal locally. No runesmith in town — he could rough out a rune from a pattern but can't imbue it. Sends gem buyers to Saris.
+
+### Misty
+- **Type:** Dwarf weaponsmith in Keepsake (shop across the street from Francis's)
+- **Relationship:** Friendly, chatty
+- **First On-Screen:** 2026-10-13 (the dwarf at the blacksmiths' table, 2026-08-18)
+- **Notes:** Metal ore has "dried up"; the town trades gems to Hammerhead for ingots, and one mine yields a little copper. Wants mithral. Made Kato's ceremonial sword, used when "Saris renovated the general store." Says Ruby has run the bar alone for years.
+
+### Tim — TAKEN BY THE MEMORY DEMON
+- **Type:** Bar owner / bartender in Keepsake; a tall elf
+- **Status:** **Eaten; forgotten in-game by everyone, the party included** (confirmed out of character, 2026-10-13)
 - **First On-Screen:** 2026-08-18
 - **Notes:**
-  - Runs the only lodging in town (two rooms, three beds). Lives above the bar. Charged the party 15 silver for rooms + tab
-  - **Not seen the morning after the rabbit's visit** — Ruby was working alone. Tupi Lulu asked about him specifically (2026-10-06). Worth checking
+  - Ran the only lodging in town (two rooms, three beds). Lived above the bar. Charged the party 15 silver for rooms + tab
+  - Not seen the morning after the rabbit's visit; Tupi Lulu asked about him specifically (2026-10-06)
+  - The town now remembers Ruby as running the bar alone for years
 
 ### Ruby
 - **Type:** Dwarf serving girl at Tim's bar, Keepsake
@@ -213,18 +241,21 @@
 - **Notes:**
   - Recognized Moz as **not** an elf. (Worldbuilding: the setting's dwarves are insectivores.)
   - Told Jack that **no one in Keepsake has gone missing**, and that the only person with "presence" stories is Greg from the shoe factory (2026-09-15)
+  - With Tim gone, the town remembers her as running the bar by herself for years (2026-10-13)
 
 ### The Gregs of Keepsake
 Joey's rule: every NPC whose name doesn't matter is **Greg**. The one who does matter gets an extra G.
 
-- **Gregg (three G's) — orc blacksmith.** The important one (renamed from "Winston"). Has military training; the other smiths want him to raise a town militia. Seen at the blacksmiths' table 2026-08-18; not yet spoken to
+- **Gregg (three G's) — orc blacksmith. TAKEN BY THE MEMORY DEMON** (confirmed out of character, 2026-10-13; forgotten in-game). The important one (renamed from "Winston"). Had military training; the other smiths wanted him to raise a town militia. Seen at the blacksmiths' table 2026-08-18; never spoken to
+- **The gnome weaponsmith (not a Greg — name never learned). TAKEN BY THE MEMORY DEMON** (2026-10-13). The gnome at the blacksmiths' table. With both main smiths gone, Francis and Misty now run the town's smithies
+- **Receptionist Greg** at the mayor's office (2026-10-13)
 - **Greg the gate guard (a.k.a. "Da").** One of ~5 town guards; ~25, ~3 years on the job. Friendly but evasive (Sierra: genial but "lying his ass off"). Insists Keepsake has no crime because big criminals are executed. Mistook Moz for a forest elf. First on-screen 2026-08-18
 - **Greg the hunter.** The drunk eyewitness (see below)
 - **Greg from the shoe factory.** "A little woohoo" per Ruby — always talking about **a presence around him** and how **"the walls want him."** Not yet met (mentioned 2026-09-15)
 
-### Sheriff Alan
-- **Type:** Sheriff of Keepsake ("little guy, big voice")
-- **Relationship:** Unknown (not yet met on-screen)
+### Sheriff Alan — TAKEN BY THE MEMORY DEMON
+- **Type:** Gnome sheriff of Keepsake ("little guy, big voice")
+- **Status:** **Eaten; forgotten in-game** (confirmed out of character, 2026-10-13). Never met on-screen
 - **First Mentioned:** 2026-08-18
 
 ### Greg the Hunter (the Eyewitness Drunk)
@@ -235,9 +266,9 @@ Joey's rule: every NPC whose name doesn't matter is **Greg**. The one who does m
   - Claims to have seen a **six-armed rabbit with an eye patch, small and cute**, in the woods. Dismissed by his friends. The party's best firsthand White Rabbit lead
   - Identified by Victoria as a hunter named Greg (2026-09-15). Find him at the **hunters' lodge** later in the day — the hunters sleep in. Not yet followed up
 
-### Victoria
+### Victoria — TAKEN BY THE MEMORY DEMON
 - **Type:** Halfling owner of Keepsake's general store
-- **Relationship:** Friendly
+- **Status:** **Eaten after the party's day-two visit; forgotten in-game** (confirmed out of character, 2026-10-13). The town now remembers Saris as the owner
 - **First On-Screen:** 2026-09-15 (seen at the bar 2026-08-18 as one of the two well-regarded halflings)
 - **Notes:**
   - Trades with caravans (source of the town's orcish beer). Named in the town's mine-bunker/rations contingency plan
@@ -248,7 +279,9 @@ Joey's rule: every NPC whose name doesn't matter is **Greg**. The one who does m
 - **Type:** Halfling helper at Keepsake's general store
 - **Relationship:** Friendly
 - **First On-Screen:** 2026-09-15 (the other halfling from the bar)
-- **Notes:** Fetches stock from the back room and answers in thumbs-ups. Also named in the rations contingency plan.
+- **Notes:**
+  - Fetches stock from the back room and answers in thumbs-ups. Also named in the rations contingency plan
+  - With Victoria gone, the town remembers Saris as the store's owner, who renovated it a few years ago. Sells the town's gems (2026-10-13)
 
 ### Horbach
 - **Type:** Living Paragon (god-like but not a deity)
@@ -319,16 +352,29 @@ Joey's rule: every NPC whose name doesn't matter is **Greg**. The one who does m
 
 ### The Memory Demon
 - **Type:** Fiend (Tupi Lulu says "demon" loosely); planet-killer in its early, weak stage
-- **Location:** Hiding somewhere in **Keepsake** — lair unknown
-- **Relationship:** Hostile; the party's current target. Not yet seen
+- **Location:** Lair **underground, near Keepsake**; most active at night. Prime suspect: the mines (2026-10-13)
+- **Relationship:** Hostile; the party's current target. Ardryl fought it off the night he lost half his HP and his memory (confirmed 2026-10-13)
 - **First Mentioned:** 2026-10-06
+- **Appearance:** Joey's stand-in for now is a **Khezu** (Monster Hunter)
 - **Notes:**
+  - **Victims in Keepsake (2026-10-13):** Tim, Victoria, Sheriff Alan, the gnome weaponsmith, and Gregg, plus ~40 villagers the town thinks "moved away." Screams heard from the village on night two
+  - **Strength:** ~60% now, ~75% after Keepsake. Sneaky; avoids open fights
+  - Tupi Lulu says he has wounded it and seen it bleed (2026-10-13; on 2026-10-06 he'd said he hadn't). No known weaknesses, resistances, or immunities
+  - If it gets through Keepsake and one more village, it reaches a big city like **Hammerhead**, and then it's too late
   - **Devours people and erases all memory of them.** Physical traces stay (clean houses, stocked pantries); survivors' minds paper over the gap. Responsible for the two emptied towns Billy Butler described
   - Weak after traveling through a hellmouth; feeds town by town to recover. **After ~5 towns nothing Tupi Lulu does can hurt it.** Keepsake is town three, and it will finish the town in ~36 hours (as of 2026-10-06)
   - On other worlds: about half the population eaten in roughly two months, then it leaves by hellmouth — unless the planet concedes first
   - Serves the **progenitor of Tupi Lulu's curse**, an unidentified fiend elsewhere
-  - Attacks with teeth, body, and claws. No known weaknesses; has never been seen to bleed or to cast. "Tricky little bugger when it's small"
-  - Possible traces in Keepsake (unconfirmed): Ardryl's lost memory and HP behind the inn door; Greg from the shoe factory's "presence"; the cow with a bite taken out of it
+  - Attacks with teeth, body, and claws. Has never been seen to cast. "Tricky little bugger when it's small"
+  - Possible traces in Keepsake (unconfirmed): Greg from the shoe factory's "presence"; the cow with a bite taken out of it
+
+### Ludo La France ("the French dude")
+- **Type:** Mind flayer convert (from an earlier arc; spelling per Emily, pronunciation unconfirmed)
+- **First Mentioned in these notes:** 2026-10-13
+- **Notes:**
+  - Came to this world from one overrun by a full demonic invasion — past the memory-demon stage. The party's knowledge of hellmouths comes from a simulation of that world
+  - The mind flayers were already here when he arrived. He decided they were "cool" and became one; his reasons are unknown to the party
+  - Per Joey, the Ring City and the hellmouths are unrelated threats
 
 ### Governor John Little
 - **Type:** Corrupt politician / voluntary mind flayer collaborator

@@ -238,8 +238,9 @@
 ---
 
 ### The White Rabbit
-**Status:** ACTIVE — The White Rabbit (Tupi Lulu) is now a wary ally; the real threat is a memory demon. **Keepsake dies in ~36 hours** (as of the campfire, 2026-10-06)
+**Status:** ACTIVE — Party is at the first of three mine entrances with Tupi Lulu, hunting the demon's lair. **Roughly a day left** before Keepsake is consumed, and **no resets** (2026-10-13)
 **Objective:** ~~Investigate the White Rabbit figure appearing in cities~~ → Find and kill the memory demon hiding in Keepsake before it finishes the town
+**Deal with Tupi Lulu (2026-10-13):** help him kill the memory demon, and he'll help the party with one problem — the coming demon invasion **or** the mind flayers
 **Location:** Keepsake — a small mining town ~2 days from the Hanging City; the **third** town hit
 
 **The Real Picture (per Tupi Lulu, 2026-10-06):**
@@ -250,8 +251,10 @@
 - On other worlds it eats about **half the population** in a couple of months unless the planet concedes first. It arrives as a **vanguard** (before the first hellmouth opens — best chance to kill it), a **reckoning**, or a **message**
 - **No hellmouth is known on this planet.** Tupi Lulu expected one and finds its absence troubling
 - Tupi Lulu can reset a single place (start of a day, up to ~3 days back) a limited number of times before "grisly effects." **This is his second run-through of Keepsake.** Outsiders are unaffected by a local reset — the party is the "anomaly," the only thing different from the last run
-- **If Keepsake fails:** he rolls back, collects the party, and they try the next town. If that fails, roughly half the planet dies
-- **Fighting it:** no known weaknesses; he has only ever hurt it by hitting it very hard and has never seen it bleed. It bites, bashes, and claws. Unknown how it erases memory. He has never found its lair inside a town
+- **If Keepsake fails:** ~~he rolls back and they try again~~ **He is out of resets for Keepsake (2026-10-13).** Fail here and there is **one more village** before the demon reaches a big city like **Hammerhead**; once it does, it's over
+- **Fighting it:** no known weaknesses, resistances, or immunities. He has wounded it a few times and, as of 2026-10-13, says he **has seen it bleed** (on 2026-10-06 he said he hadn't). It bites, bashes, and claws. Unknown how it erases memory
+- **Lair (2026-10-13):** underground and nearby; most active at night. Prime suspect: **the mines**
+- **Strength (2026-10-13):** ~60% now; finishing Keepsake brings it to ~75%
 
 **Original Intel (before 2026-10-06):**
 - A figure — the "White Rabbit" — has been sighted in multiple cities
@@ -290,16 +293,37 @@
 - ~~Why is Ardryl an "anomaly"? What is "last time"?~~ The party wasn't in Keepsake on the previous run-through
 - ~~Is the creature causing the disappearances or warning of them?~~ Neither — he is hunting the cause
 
+**Events at Keepsake (2026-10-13):**
+- Tupi Lulu answered the party's questions: lair underground and nearby, active at night, ~60% strength, no known weaknesses. Joey's visual stand-in for the demon: a **Khezu** (Monster Hunter)
+- He offered the deal above and made clear he **won't reset Keepsake again**
+- Party long-rested in the forest on his advice. **Moz and Jack heard screams from the village** during their watches
+- Morning in town: the armorsmith **Francis** (elf), the weaponsmith **Misty** (dwarf), and Deputy Mayor **Mark** (goblin) all describe a town that no longer includes the missing. Saris "owns" the general store; Ruby has "always" run the bar alone
+- Mark: ~**40 villagers (20%) "moved away"** recently; the miners have been pulled onto crop duty. Permission granted to explore the mines
+- Mines are **mostly gem mines** (one yields a little copper); metal ore has "dried up." There are **three** tunnels
+- Session ended at the first mine entrance: well-kept tools, stored explosives, and tended canaries
+
+**Taken by the demon so far (Joey, out of character, 2026-10-13)** — forgotten in-game by everyone, the party included:
+- **Tim** (bar owner) — gone by the morning after night one
+- **Victoria** (general store) — after the party's day-two visit
+- **Sheriff Alan** (gnome)
+- **The gnome weaponsmith** (name never learned)
+- **Gregg** (orc blacksmith, Greg with two G's)
+- Plus ~40 villagers the town believes "moved away"
+
+**Resolved (2026-10-13):**
+- ~~What took half of Ardryl's HP and his memory behind the door?~~ The memory demon; Ardryl fought it off
+- ~~Where was Tim that morning?~~ Eaten
+- ~~How many resets does Keepsake have left?~~ None
+
 **Open Questions:**
-- Where is the demon's lair in Keepsake, and what does it look like while small?
-- What took half of Ardryl's HP and his memory behind the door? (The enemy takes memories; Tupi Lulu did not expect this)
-- Where was Tim that morning?
-- How many resets does Keepsake have left?
+- Which mine holds the lair? Who has been tending the mine and the canaries if the miners are all on crop duty?
+- What can actually hurt the demon?
+- Who screamed on night two?
 - Is a hellmouth coming, and where?
 - Why couldn't Moz see the alternate selves?
-- Does the demonic incursion connect to the mind flayers at all?
+- Does the demonic incursion connect to the mind flayers at all? (Joey: the Ring City and the hellmouths are unrelated — the mind flayers were here before Ludo La France arrived from a demon-overrun world)
 
-**Leads in Keepsake:** Tim's absence; Greg from the shoe factory ("the walls want him"); the cow-bite job on the notice board; hunters' lodge / Greg the hunter; Ardryl's lost night
+**Leads in Keepsake:** the three mines; Greg from the shoe factory ("the walls want him"); the cow-bite job on the notice board; hunters' lodge / Greg the hunter
 
 ---
 
